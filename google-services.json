@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "999588195593",
+    "firebase_url": "https://android-45ca8.firebaseio.com",
+    "project_id": "android-45ca8",
+    "storage_bucket": "android-45ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999588195593:android:6714617fead3c403",
+        "android_client_info": {
+          "package_name": "unimelb.snapchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999588195593-hgu5k7t05bf0ems2qsvs67o70475uirl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "unimelb.snapchat",
+            "certificate_hash": "892A1A947BB4D915A3F4E5BD0A47D7C3A7358F80"
+          }
+        },
+        {
+          "client_id": "999588195593-ffkgscjt04fsn7f5oscsu27i57ln8rs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSBpGwHnnLITFAcNW-koUBvI0sInp5mSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999588195593-ffkgscjt04fsn7f5oscsu27i57ln8rs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
